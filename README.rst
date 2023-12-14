@@ -81,13 +81,13 @@ You can correct that by doing
 
 .. code:: shell
 
-    pip install prompt_toolkit==1.0.14
+    pip install prompt_toolkit>=3.0.0,<3.1.0
 
 or download the wheel file from here:
 
 .. code:: shell
 
-    https://pypi.org/project/prompt_toolkit/1.0.14/#files
+    https://pypi.org/project/prompt_toolkit/3.0.0/#files
 
 Quickstart
 ~~~~~~~~~~
